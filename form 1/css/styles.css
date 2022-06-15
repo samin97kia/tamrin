@@ -1,0 +1,86 @@
+form{
+    border: 2px solid rgb(114, 23, 106);
+    border-radius:15px ;
+    background-color:rgb(255, 220, 209) ;
+    
+    width:60% ;
+    text-align: center;
+    margin:auto ;
+    
+    
+
+}
+
+
+
+.p1{
+    text-align: center;
+    font-size: xx-large;
+    background-color:rgb(230, 152, 178);
+    margin: 20px;
+    border: 1px solid rgb(230, 152, 178) ;
+    border-radius:15% ;
+    
+}
+.l1{
+    font-size:x-large;
+    text-align: left;
+    position: relative;
+    float: middle;
+}
+.l2{
+    font-size:x-large;
+    text-align: left;
+    margin:auto;
+    position: relative;
+    float: middle;
+}
+.l3{
+    font-size: x-large;
+    text-align: left;
+    position: relative;
+    float: middle;
+
+}
+.l4{
+    font-size: x-large;
+    text-align: left;
+}
+.l5{
+    font-size: x-large;
+    text-align: left;
+}
+.l6{
+    font-size: x-large;
+}
+.name{
+    width: 150px;
+    background-color: antiquewhite;
+    height:26px;
+    border: 1px solid rgb(114, 23, 106);
+}
+
+
+ /* c = inputs for company, email, sunject & phone number */
+.c{
+    background-color: antiquewhite;
+    width:320px;
+     height:26px;
+     border: 1px solid rgb(114, 23, 106);
+    
+}
+.erea{
+    width:60px ;
+    background-color: antiquewhite;
+    height:26px;
+    border: 1px solid rgb(114, 23, 106);
+}
+button{
+    color: rgb(255, 104, 99) ;
+    background-color:rgb(255, 204, 203) ;
+    width: 140px;
+    height: 40px;
+    font-size: x-large;
+    border: 1px solid rgb(114, 23, 106);
+    border-radius:40% ;
+}
